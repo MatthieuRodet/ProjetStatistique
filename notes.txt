@@ -1,0 +1,55 @@
+Base de données des prénoms donnés de 1900 à 2019.
+Sexe : 1 pour les garçons, 2 pour les filles
+
+Conditions portant sur les prénoms retenus
+
+    1. Sur la période allant de 1900 à 1945, le prénom a été attribué au moins 20 fois à des personnes de sexe féminin 
+    et/ou au moins 20 fois à des personnes de sexe masculin
+    2. Sur la période allant de 1946 à 2019, le prénom a été attribué au moins 20 fois à des personnes de sexe féminin 
+    et/ou au moins 20 fois à des personnes de sexe masculin
+    3. Pour une année de naissance donnée, le prénom a été attribué au moins 3 fois à des personnes de sexe féminin ou de sexe masculin
+
+Les effectifs des prénoms ne remplissant pas les conditions 1 et 2 sont regroupés (pour chaque sexe et chaque année de naissance) 
+dans un enregistrement dont le champ prénom (PREUSUEL) prend la valeur «_PRENOMS_RARES_». 
+Les effectifs des prénoms remplissant la condition 2 mais pas la condition 3 sont regroupés (pour chaque sexe et chaque prénom) dans 
+un enregistrement dont le champ année de naissance (ANNAIS) prend la valeur «XXXX».
+
+Nous avons d'abord regardé le nombre de prénoms par an :
+Prénoms liés à des personnalités :
+Zidane (oui, en prénom) : apparaît dans les années 60 puis pic en 98 
+Michael : pic dans les années 70 (début de la carrière de MJ) puis diminue progressivement (voir avec les variantes : mickael, etc)
+Aurelien : pic en 2010 (voir avec aurélien)
+David : pic vers 1965 (début de la carrière de David Bowie)
+
+Prénoms à nouveau à la mode:
+Louis : très à la mode au début du 20e siècle, baisse en 1920 puis hausse vers 1990 (mais globalement bcp donné)
+
+Prénoms de zoomers :
+Matthieu : (voir avec les variantes Mathieu, Mathieux...) pic en 1990
+Manon : pic entre 1990 et 2000
+Enzo : pic vers 2005
+Quentin : pic entre 1995 et 2000
+
+Prénoms de boomers :
+Jean : hausse jusqu'aux années 50 puis diminution (ne correspond pas vraiment au baby boom)
+Jacques : forte hausse entre 1920 et 1950 puis diminution
+
+Prénoms de dictateurs :
+Adolf : très rare mais quand même quelques bébés (max 6 par an) entre 1939 et 1945 (des collabos ?)
+Joseph : très à la mode de 1900 à 1930, puis forte diminution...
+
+
+Prénoms rares :') :
+Isseïnie : n'apparaît pas
+Philémon : (avec accent aussi) maximum (environ 50) dans les années 2000
+Ludmila : maximum (40) entre 1995 et 2010
+
+
+Mais ce qui est plus parlant est de regarder le pourcentage de chaque prénom par rapport au nombre de naissances.
+Par exemple, on peut voir qu'il y a des baisses et des pics dans le nombre de naissances (pendant et après les guerres notamment).
+
+
+
+Effets de mode :
+Prénoms à 3 lettres : pour 2 sexes, augmentation forte à partir de 1990 (jusqu'à 3%)
+pour les garçons entre 1 et 1.5% entre 1930 et 1960
