@@ -17,15 +17,16 @@ un enregistrement dont le champ année de naissance (ANNAIS) prend la valeur «X
 Nous avons d'abord regardé le nombre de prénoms par an :
 Prénoms liés à des personnalités :
 Zidane (oui, en prénom) : apparaît dans les années 60 puis pic en 98 
-Michael : pic dans les années 70 (début de la carrière de MJ) puis diminue progressivement (voir avec les variantes : mickael, etc)
-Aurelien : pic en 2010 (voir avec aurélien)
+Michael : forte augmentation dans les années 70 (début de la carrière de MJ) puis diminue progressivement dans les années 90
+Aurelien : pic dans les années 80 (pas de corrélation)
 David : pic vers 1965 (début de la carrière de David Bowie)
 
 Prénoms à nouveau à la mode:
 Louis : très à la mode au début du 20e siècle, baisse en 1920 puis hausse vers 1990 (mais globalement bcp donné)
+Louise, Louison, Alice, Jules : idem
 
 Prénoms de zoomers :
-Matthieu : (voir avec les variantes Mathieu, Mathieux...) pic en 1990
+Matthieu,... : pic en 1990
 Manon : pic entre 1990 et 2000
 Enzo : pic vers 2005
 Quentin : pic entre 1995 et 2000
@@ -41,14 +42,15 @@ Joseph : très à la mode de 1900 à 1930, puis forte diminution...
 
 Prénoms rares :') :
 Isseïnie : n'apparaît pas
-Philémon : (avec accent aussi) maximum (environ 50) dans les années 2000
+Philémon : maximum (environ 50) dans les années 2010
 Ludmila : maximum (40) entre 1995 et 2010
+Augmentation forte des prénoms rares au cours du temps
 
 
 Mais ce qui est plus parlant est de regarder le pourcentage de chaque prénom par rapport au nombre de naissances.
 Par exemple, on peut voir qu'il y a des baisses et des pics dans le nombre de naissances (pendant et après les guerres notamment).
 
-
+Pics plus significatifs en général
 
 Effets de mode :
 Prénoms à 3 lettres : pour 2 sexes, augmentation forte à partir de 1990 (jusqu'à 3%)
